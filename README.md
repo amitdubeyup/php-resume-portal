@@ -1,30 +1,54 @@
-Web Test!!!
+# web-app
 
 Follow below instruction to run this project!
 
-1. Create database with name "test".
+## ✨ Features
 
-2. Create table by running following sql query in database.
+- Modern and scalable architecture
 
-CREATE TABLE `user_details` (
-`id` int(10) AUTO_INCREMENT PRIMARY KEY,
-`name` varchar(255),
-`email` varchar(100),
-`password` varchar(100),
-`phone` varchar(100),
-`address` varchar(255),
-`state` varchar(100),
-`city` varchar(100),
-`picture` varchar(255),
-`resume` varchar(255),
-`voice` varchar(255),
-`created_at` varchar(255)
-);
+## 📦 Installation
 
-3. Configure database connection in config.php file
+```bash
+# Clone the repository
+git clone https://github.com/amitdubeyup/web-app.git
+cd web-app
 
-4. Test on localhost machine
+```
 
-Also you can check it on my live server 
+## ⚙️ Configuration
 
-http://www.crewanimation.com/test/
+Create a `.env` file in the root directory:
+
+```bash
+cp .env.example .env
+```
+
+Update the `.env` file with your configuration values.
+
+## 🚀 Usage
+
+```bash
+# Add usage instructions here
+```
+
+## 📁 Project Structure
+
+```
+web-app/
+├── .env.example
+├── README.md
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Amit Dubey**
+
+- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
