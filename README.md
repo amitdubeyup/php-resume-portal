@@ -1,4 +1,4 @@
-# web-app
+# php-resume-portal
 
 Follow below instruction to run this project!
 
@@ -10,8 +10,8 @@ Follow below instruction to run this project!
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/web-app.git
-cd web-app
+git clone https://github.com/amitdubeyup/php-resume-portal.git
+cd php-resume-portal
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-web-app/
+php-resume-portal/
 ├── .env.example
 ├── README.md
 ```
